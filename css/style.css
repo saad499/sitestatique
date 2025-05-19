@@ -225,7 +225,39 @@
 .features {
     width: 75%;
     height: 700px;
-    background: url(../img/image-principal.png);
+    background: url(../img/odd1.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.features-2{
+    width: 95%;
+    height: 2200px;
+    background: url(../img/poster.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.features-3{
+    width: 80%;
+    height: 700px;
+    background: url(../img/nexus1.PNG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.features-4{
+    width: 80%;
+    height: 700px;
+    background: url(../img/nexus2.PNG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.features-5{
+    width: 80%;
+    height: 700px;
+    background: url(../img/nexus3.PNG);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
